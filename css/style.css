@@ -646,15 +646,14 @@ header.fixed .navbar {
 /* ---------Hero-banner-Css-Start------------------ */
 /* hero banner wraper */
 .banner_section {
-    margin-top:0px;
-    padding-top:200px;
+    margin-top: 0px;
+    padding-top: 200px;
     position: relative;
-    background-image: url(../images/hero-image.png);
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(0, 0, 255, 0.5)), url(https://4.bp.blogspot.com/-MknPPYJHAXw/UcjDg-5tHII/AAAAAAAAAEE/u_eopBRt2CA/s640/-1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
     background-position: center;
-
 }
 
 @keyframes AnimateBG { 
